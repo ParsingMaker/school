@@ -1,90 +1,96 @@
-Характеристика заказчика;2012;2013;2014;2015;2016;2017;2018;2019;2020;2021;2022 год
-ВРП на душу населения, тыс.руб. на чел.;383,33;403,61;430,13;520,25;605,32;632,99;706,61;756,78;762,35;NaN;NaN
-Спрос на продукцию сферы приборостроения, млн руб;NaN;NaN;NaN;NaN;NaN;NaN;NaN;78180,9;112481,2;126483,4;126461,9
-Объем производства предприятий отрасли приборостроения;NaN;NaN;NaN;NaN;NaN;1485,755;2823,838;NaN;2767,697;3724,602;4361,932
-Инвестиции в основной капитал на душу населения, тыс.руб. на чел.;108512;102922;101754;103799;125563;135240;165371;149028;155834;171034;187726
-Ежегодный прирост населения, чел;-21387;-16534;-13396;-11634;-10606;-23538;-30590;-39543;-76175;-113923;-72474
-Доля предприятий с высокотехнологическим производством;NaN;NaN;NaN;NaN;NaN;21,4;22,3;22,2;23;NaN;NaN
-Доля компаний, осуществлявших инновационную деятельность,%;NaN;NaN;NaN;9,6;8,3;15,9;15,9;10,1;10,8;NaN;NaN
-Количество научно-технических организаций, ед;NaN;NaN;NaN;NaN;NaN;476;483;521;514;NaN;NaN
-Коэффициент изобретательской активности (число патентных заявок на изобретения, поданных в РФ на 10 тыс. населения;NaN;NaN;NaN;1,63;1,79;1,55;1,58;2,64;NaN;NaN;NaN
-Численность исследователей, имеющих ученую степень кандидата или доктора наук ;NaN;NaN;NaN;13769;12784;12156;11508;11901;11837;NaN;NaN
-Своевременность выполнения финансовых обязательств заказчиком;14 992 420,59;14 187 481,15;"12 537 644,95	";9 649 816,10;8 953 647,25;5 929 941,54;4 239 583,98;3 311 660,91;3 262 848,49;3 160 423,41;3 179 832,52
-Размер бюджета региона, млрд руб.;951,8;1015,6;1111,7;1174,2;1273,08;1373,8;1605,03;1768,9;1894,2;1866,6;2374,7
-Декларация развития Индустрии 4.0 в регионе,%;NaN;NaN;NaN;86,5;55,2;89;70,1;88,8;75,9;NaN;NaN
-Доля производства приборов регионом в общем количестве производства в РФ, %;NaN;NaN;NaN;NaN;NaN;9,87;7,26;н/д;7,87;7,97;9,82
-Количество организаций, выполняющих научные исследования и разработки (единиц), ед;NaN;NaN;NaN;493;494;476;483;521;514;NaN;NaN
-Устойчивость экономической системы региона;103,8;100,3;100,9;101,5;101,7;100,5;102,1;101,6;98,1;NaN;NaN
-Инфляция в регионе, %;105,32;105,37;108,14;117,82;107,41;103,06;104,13;102,95;104,84;108,53;111,90
-Доля импорта на региональном рынке приборов, %;NaN;NaN;NaN;NaN;NaN;NaN;85;85;85;85;85
-Динамика промышленного производства, %;NaN;NaN;NaN;NaN;103,3;103;102,9;103,4;97,4;104,6;99,7
-Доля ВВП региона в страновом показателе, %;NaN;NaN;9,57;9,77;9,64;9,21;9,50;9,65;9,89;NaN;NaN
-Рентабельность активов предприятий приборостроения региона, %;NaN;NaN;NaN;NaN;NaN;11,33;10,91;7,52;9,77;8,74;8,15
-Рентабельность собственного капитала предприятий отрасли,%;22,3;27,3;22,4;25,9;23,9;26,1;24,1;22,2;19,5;19,6;19,6
-Динамика экспорта региона, млн долл. США;52071;47945;52740;39697;31813;41249;50868;50763;42242;61035;NaN
-Динамика импорта региона, млн долл США;57033;55582;52784;34008;32143;35946;37573;27936;34528;42851;NaN
-Индекс предпринимательской уверенности;19,3;0,25;-0,5;-7;-8,3;-12,75;-11,75;-14,25;-22,5;-20,25;-24,25
-Уровень использования производственных мощностей;61,25;57,55;57,73;56,39;55,99;52,29;53,29;53,87;51,78;55,1;51,36
-Компетентность и опыт менеджмента поставок ();3;3;3;5;5;3;3;5;3;3;3
-Поддержка федерального центра ();3;3;3;3;3;3;3;3;3;3;3
-Объем требуемых человеко-часов ();3;5;5;5;5;3;3;5;5;5;3
-Стабильность структуры комиссии ();3;3;3;3;5;5;5;3;3;5;3
-Инновационная активность ();3;3;1;1;3;1;1;1;1;3;1
-Способность самостоятельного выполнения задач ();5;5;1;5;5;1;5;1;5;5;5
-Опыт работы руководителя в сфере государственного управления ();4;4;4;4;4;4;4;4;4;4;4
-Количество создаваемых предприятий ();3;3;5;3;3;3;5;3;3;3;3
-Коммуникационная эффективность участников ();1;3;1;3;1;1;1;1;1;1;3
-Имидж заемщика и покупателя ();3;3;3;3;3;1;3;5;3;3;5
-Зафиксирована успешная история реализации проектов в сфере приборостроения ();1;1;5;5;1;5;5;5;5;5;5
-Широта прав и возможностей ();1;3;1;1;1;1;1;3;3;1;3
-Работа с рекламациями;4;4;5;5;4;5;4;4;4;4;5
-Компетентность персонала;4;5;5;5;3;4;4;5;4;4;4
-Зависимость от зарубежных поставок;5;5;5;1;1;5;1;5;1;1;5
-Зависимость от импорта из других стран;4;3;4;2;3;3;4;3;2;3;3
-Своевременность выполнения обязательств ранее;5;5;5;4;4;5;4;5;4;5;5
-Проверка качества продукции;5;5;5;5;5;5;5;5;1;1;5
-Инновационная активность поставщиков;3;5;3;3;3;3;5;5;3;5;3
-Опыт поставок предприятиям сферы приборостроения;3;3;3;4;3;3;4;3;3;3;4
-Своевременность поставок;3;4;4;4;5;4;4;4;5;5;4
-Необходимая техническая база;5;5;5;5;5;5;5;5;5;5;5
-Имидж на рынке;3;3;4;5;5;4;4;5;3;5;5
-Есть собственные инновации и наработки;2;3;3;2;3;3;3;3;2;2;3
-Возможность наращивания поставок;5;1;5;5;1;5;5;5;5;1;5
-Техническая независимость поставщиков;5;1;5;1;1;5;1;5;1;1;5
-Себестоимость продукции;3;3;3;1;3;1;3;3;1;3;3
-Качество комплектующих;4;3;4;3;5;3;3;4;3;4;4
-Возможность изменения логистики;5;5;5;5;5;5;1;5;5;5;5
-Длительность функционирования;5;5;5;5;3;3;5;3;5;5;3
-Автономия;4;5;3;4;4;4;4;5;5;5;3
-Устойчивость производственного процесса;4;4;4;4;5;5;5;4;4;4;4
-Имидж на рынке;3;3;3;3;4;4;4;3;3;5;4
-Наличие мощных брендов в ассортиментном портфеле;1;1;1;1;1;1;1;1;1;5;5
-Инвестиционная активность в течение последних лет;6;6;6;7;6;7;6;5;6;6;5
-Эффективность и рациональность текущих бизнес-моделей;4;4;4;3;4;4;3;5;5;4;4
-Устойчивость сбыта приборов предприятиями;7;7;5;7;8;8;5;6;7;7;7
-Укомплектованность компетентным персоналом;7;7;7;6;6;8;8;8;5;5;6
-Опыт работы с государственным финансированием;1;1;1;3;1;1;5;3;3;1;1
-Достаточное количество альтернатив действия в зависимости от ситуации в отрасли  ;4;4;3;5;3;4;4;4;4;5;5
-Качество технологии планирования, прогнозирования и проектирования  ;3;3;3;3;4;3;3;4;4;3;3
-Использование инноваций в процессе  ;3;3;2;2;3;2;4;3;2;3;2
-Доля неопределенности  ;1;1;1;2;2;1;2;2;1;1;2
-Направленность интересов участников  ;3;3;3;3;3;4;3;4;3;3;3
-Доступ к научной среде (теоретики) ;5;4;5;5;5;5;4;4;5;4;5
-Доступ к экспертной среде (практики) ;4;4;5;3;3;4;5;3;4;3;3
-Интенсивность поддержки дотациями ;3;2;2;3;3;2;2;3;3;4;2
-Изменчивость внешней среды ;3;1;1;1;3;1;1;1;1;3;1
-Наличие инструментов для решения проблем в различных сферах ;5;4;4;5;4;4;3;3;4;4;3
-Достаточные аналитические мощности для разносторонней оценки проблем и угроз в момент их выявления ;5;5;4;4;3;5;4;4;5;3;4
-Качественная формализация проблем ;4;4;4;5;4;4;5;4;5;4;4
-Наличие возможности заранее выявлять надвигающиеся проблемы и угрозы ;3;2;3;3;3;3;2;2;3;3;4
-Проблемы с финансированием ;3;3;3;3;3;3;4;3;2;3;3
-Среда возникновения шоков в рамках отрасли приборостроения ;1;5;5;5;1;1;1;1;1;1;5
-Уровень управленцев ;3;3;3;4;3;3;4;3;3;3;4
-Потенциальная скорость реагирования на возникающие проблемы ;4;4;3;3;4;4;3;4;3;3;3
-Низкая волатильность выручки предприятий приборостроения ;4;4;3;4;4;5;5;5;5;4;5
-Низкая волатильность прибыльности предприятий приборостроения ;5;5;5;4;4;3;4;4;5;4;5
-Расширение хозяйственного потенциала предприятий сферы приборостроения ;3;4;4;3;4;4;4;4;4;3;3
-Перспектива достижения целей ;1;5;3;3;3;5;1;1;5;3;3
-Расширение финансового потенциала предприятий сферы приборостроения;4;4;4;5;5;5;4;5;5;5;5
-Нахождение новых ниш и резервов усиления ;3;4;3;2;5;3;3;3;4;3;3
-Налаживание новых связей с другими регионами и странами ;3;4;3;3;3;4;4;3;3;3;4
+;2012;2013;2014;2015;2016;2017;2018;2019;2020;2021;2022 год
+VRP na dushu naseleniya;383,33;403,61;430,13;520,25;605,32;632,99;706,61;756,78;762,35;NaN;NaN
+Spros na produktsiyu sfery priborostroeniya;NaN;NaN;NaN;NaN;NaN;NaN;NaN;78180,9;112481,2;126483,4;126461,9
+Investitsii v osnovnoi kapital na dushu naseleniya;NaN;NaN;NaN;NaN;NaN;1485,755;2823,838;NaN;2767,697;3724,602;4361,932
+Investitsii v osnovnoi kapital na dushu naseleniya;108512;102922;101754;103799;125563;135240;165371;149028;155834;171034;187726
+Ezhegodnyi prirost naseleniya;-21387;-16534;-13396;-11634;-10606;-23538;-30590;-39543;-76175;-113923;-72474
+Dolya predpriyatii s vysokotekhnologicheskim proizvodstvom;NaN;NaN;NaN;NaN;NaN;21,4;22,3;22,2;23;NaN;NaN
+Dolya kompanii, osushchestvlyavshikh innovatsionnuyu deyatelnost;NaN;NaN;NaN;9,6;8,3;15,9;15,9;10,1;10,8;NaN;NaN
+Kolichestvo nauchno-tekhnicheskikh organizatsii;NaN;NaN;NaN;NaN;NaN;476;483;521;514;NaN;NaN
+Koeffitsient izobretatelskoi aktivnosti (chislo patentnykh zayavok na izobreteniya,  podannykh v RF;NaN;NaN;NaN;1,63;1,79;1,55;1,58;2,64;NaN;NaN;NaN
+Chislennost issledovatelei,  imeyushchikh uchenuyu stepen kandidata ili doktora nauk ;NaN;NaN;NaN;13769;12784;12156;11508;11901;11837;NaN;NaN
+Svoevremennost vypolneniya finansovykh obyazatelstv zakazchikom;14 992 420,59;14 187 481,15;"12 537 644,95	";9 649 816,10;8 953 647,25;5 929 941,54;4 239 583,98;3 311 660,91;3 262 848,49;3 160 423,41;3 179 832,52
+Razmer byudzheta regiona;951,8;1015,6;1111,7;1174,2;1273,08;1373,8;1605,03;1768,9;1894,2;1866,6;2374,7
+Deklaratsiya razvitiya Industrii 4.0 v regione;NaN;NaN;NaN;86,5;55,2;89;70,1;88,8;75,9;NaN;NaN
+Dolya proizvodstva priborov regionom v obshchem kolichestve proizvodstva v RF;NaN;NaN;NaN;NaN;NaN;9,87;7,26;н/д;7,87;7,97;9,82
+Kolichestvo organizatsii,  vypolnyayushchikh nauchnye issledovaniya i razrabotki (edinits);NaN;NaN;NaN;493;494;476;483;521;514;NaN;NaN
+Ustoichivost ekonomicheskoi sistemy regiona;103,8;100,3;100,9;101,5;101,7;100,5;102,1;101,6;98,1;NaN;NaN
+Inflyatsiya v regione;105,32;105,37;108,14;117,82;107,41;103,06;104,13;102,95;104,84;108,53;111,90
+Dolya importa na regionalnom rynke priborov;NaN;NaN;NaN;NaN;NaN;NaN;85;85;85;85;85
+Dinamika promyshlennogo proizvodstva;NaN;NaN;NaN;NaN;103,3;103;102,9;103,4;97,4;104,6;99,7
+Dolya VVP regiona v stranovom pokazatele;NaN;NaN;9,57;9,77;9,64;9,21;9,50;9,65;9,89;NaN;NaN
+Rentabelnost aktivov predpriyatii priborostroeniya regiona;NaN;NaN;NaN;NaN;NaN;11,33;10,91;7,52;9,77;8,74;8,15
+Rentabelnost sobstvennogo kapitala predpriyatii otrasli;22,3;27,3;22,4;25,9;23,9;26,1;24,1;22,2;19,5;19,6;19,6
+Dinamika eksporta regiona;52071;47945;52740;39697;31813;41249;50868;50763;42242;61035;NaN
+Dinamika importa regiona;57033;55582;52784;34008;32143;35946;37573;27936;34528;42851;NaN
+Indeks predprinimatelskoi uverennosti;19,3;0,25;-0,5;-7;-8,3;-12,75;-11,75;-14,25;-22,5;-20,25;-24,25
+Uroven ispolzovaniya proizvodstvennykh moshchnostei;61,25;57,55;57,73;56,39;55,99;52,29;53,29;53,87;51,78;55,1;51,36
+Kompetentnost i opyt menedzhmenta postavok ;3;3;3;5;5;3;3;5;3;3;3
+Podderzhka federalnogo tsentra ;3;3;3;3;3;3;3;3;3;3;3
+Obem trebuemykh cheloveko-chasov ;3;5;5;5;5;3;3;5;5;5;3
+Stabilnost struktury komissii ;3;3;3;3;5;5;5;3;3;5;3
+Innovatsionnaya aktivnost ;3;3;1;1;3;1;1;1;1;3;1
+Sposobnost samostoyatelnogo vypolneniya zadach ;5;5;1;5;5;1;5;1;5;5;5
+Opyt raboty rukovoditelya v sfere gosudarstvennogo upravleniya ;4;4;4;4;4;4;4;4;4;4;4
+Kolichestvo sozdavaemykh predpriyatii ;3;3;5;3;3;3;5;3;3;3;3
+Kommunikatsionnaya effektivnost uchastnikov ;1;3;1;3;1;1;1;1;1;1;3
+Imidzh zaemshchika i pokupatelya ;3;3;3;3;3;1;3;5;3;3;5
+Zafiksirovana uspeshnaya istoriya realizatsii proektov v sfere priborostroeniya;1;1;5;5;1;5;5;5;5;5;5
+Shirota prav i vozmozhnostei ;1;3;1;1;1;1;1;3;3;1;3
+Rabota s reklamatsiyami;4;4;5;5;4;5;4;4;4;4;5
+Kompetentnost personala;4;5;5;5;3;4;4;5;4;4;4
+Zavisimost ot zarubezhnykh postavok;5;5;5;1;1;5;1;5;1;1;5
+Zavisimost ot importa iz drugikh stran;4;3;4;2;3;3;4;3;2;3;3
+Svoevremennost vypolneniya obyazatelstv ranee;5;5;5;4;4;5;4;5;4;5;5
+Proverka kachestva produktsii;5;5;5;5;5;5;5;5;1;1;5
+Innovatsionnaya aktivnost postavshchikov;3;5;3;3;3;3;5;5;3;5;3
+Opyt postavok predpriyatiyam sfery priborostroeniya;3;3;3;4;3;3;4;3;3;3;4
+Svoevremennost postavok;3;4;4;4;5;4;4;4;5;5;4
+Neobkhodimaya tekhnicheskaya baza;5;5;5;5;5;5;5;5;5;5;5
+Imidzh na rynke;3;3;4;5;5;4;4;5;3;5;5
+Est sobstvennye innovatsii i narabotki;2;3;3;2;3;3;3;3;2;2;3
+Vozmozhnost narashchivaniya postavok;5;1;5;5;1;5;5;5;5;1;5
+Tekhnicheskaya nezavisimost postavshchikov;5;1;5;1;1;5;1;5;1;1;5
+Sebestoimost produktsii;3;3;3;1;3;1;3;3;1;3;3
+Kachestvo komplektuyushchikh;4;3;4;3;5;3;3;4;3;4;4
+Vozmozhnost izmeneniya logistiki;5;5;5;5;5;5;1;5;5;5;5
+Dlitelnost funktsionirovaniya;5;5;5;5;3;3;5;3;5;5;3
+Avtonomiya;4;5;3;4;4;4;4;5;5;5;3
+Ustoichivost proizvodstvennogo protsessa;4;4;4;4;5;5;5;4;4;4;4
+Imidzh na rynke;3;3;3;3;4;4;4;3;3;5;4
+Nalichie moshchnykh brendov v assortimentnom portfele;1;1;1;1;1;1;1;1;1;5;5
+Investitsionnaya aktivnost v techenie poslednikh let;6;6;6;7;6;7;6;5;6;6;5
+Effektivnost i ratsionalnost tekushchikh biznes-modelei;4;4;4;3;4;4;3;5;5;4;4
+Ustoichivost sbyta priborov predpriyatiyami;7;7;5;7;8;8;5;6;7;7;7
+Ukomplektovannost kompetentnym personalom;7;7;7;6;6;8;8;8;5;5;6
+Opyt raboty s gosudarstvennym finansirovaniem;1;1;1;3;1;1;5;3;3;1;1
+Dostatochnoe kolichestvo alternativ deistviya v zavisimosti ot situatsii v otrasli  ;4;4;3;5;3;4;4;4;4;5;5
+Kachestvo tekhnologii planirovaniya,  prognozirovaniya i proektirovaniya  ;3;3;3;3;4;3;3;4;4;3;3
+Ispolzovanie innovatsii v protsesse  ;3;3;2;2;3;2;4;3;2;3;2
+Dolya neopredelennosti  ;1;1;1;2;2;1;2;2;1;1;2
+Napravlennost interesov uchastnikov  ;3;3;3;3;3;4;3;4;3;3;3
+Dostup k nauchnoi srede (teoretiki) ;5;4;5;5;5;5;4;4;5;4;5
+Dostup k ekspertnoi srede (praktiki) ;4;4;5;3;3;4;5;3;4;3;3
+Intensivnost podderzhki dotatsiyami ;3;2;2;3;3;2;2;3;3;4;2
+Izmenchivost vneshnei sredy ;3;1;1;1;3;1;1;1;1;3;1
+Nalichie instrumentov dlya resheniya problem v razlichnykh sferakh ;5;4;4;5;4;4;3;3;4;4;3
+Dostatochnye analiticheskie moshchnosti dlya raznostoronnei otsenki problem i ugroz v moment ikh vyyavleniya ;5;5;4;4;3;5;4;4;5;3;4
+Kachestvennaya formalizatsiya problem ;4;4;4;5;4;4;5;4;5;4;4
+Nalichie vozmozhnosti zaranee vyyavlyat nadvigayushchiesya problemy i ugrozy ;3;2;3;3;3;3;2;2;3;3;4
+Problemy s finansirovaniem ;3;3;3;3;3;3;4;3;2;3;3
+Sreda vozniknoveniya shokov v ramkakh otrasli priborostroeniya ;1;5;5;5;1;1;1;1;1;1;5
+Uroven upravlentsev ;3;3;3;4;3;3;4;3;3;3;4
+Potentsialnaya skorost reagirovaniya na voznikayushchie problemy ;4;4;3;3;4;4;3;4;3;3;3
+Nizkaya volatilnost vyruchki predpriyatii priborostroeniya ;4;4;3;4;4;5;5;5;5;4;5
+Nizkaya volatilnost pribylnosti predpriyatii priborostroeniya ;5;5;5;4;4;3;4;4;5;4;5
+Rasshirenie khozyaistvennogo potentsiala predpriyatii sfery priborostroeniya ;3;4;4;3;4;4;4;4;4;3;3
+Perspektiva dostizheniya tselei ;1;5;3;3;3;5;1;1;5;3;3
+Rasshirenie finansovogo potentsiala predpriyatii sfery priborostroeniya;4;4;4;5;5;5;4;5;5;5;5
+Nakhozhdenie novykh nish i rezervov usileniya ;3;4;3;2;5;3;3;3;4;3;3
+Nalazhivanie novykh svyazei s drugimi regionami i stranami ;3;4;3;3;3;4;4;3;3;3;4
+;;;;;;;;;;;
+;;;;;;;;;;;
+;;;;;;;;;;;
+;;;;;;;;;;;
+;;;;;;;;;;;
+;;;;;;;;;;;
