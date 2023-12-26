@@ -1,90 +1,1 @@
-Params;2012;2013;2014;2015;2016;2017;2018;2019;2020;2021;2022
-VRP na dushu naseleniya;383,33;403,61;430,13;520,25;605,32;632,99;706,61;756,78;762,35;NaN;NaN
-Spros na produktsiyu sfery priborostroeniya;NaN;NaN;NaN;NaN;NaN;NaN;NaN;78180,9;112481,2;126483,4;126461,9
-Investitsii v osnovnoi kapital na dushu naseleniya;NaN;NaN;NaN;NaN;NaN;1485,755;2823,838;NaN;2767,697;3724,602;4361,932
-Investitsii v osnovnoi kapital na dushu naseleniya;108512;102922;101754;103799;125563;135240;165371;149028;155834;171034;187726
-Ezhegodnyi prirost naseleniya;-21387;-16534;-13396;-11634;-10606;-23538;-30590;-39543;-76175;-113923;-72474
-Dolya predpriyatii s vysokotekhnologicheskim proizvodstvom;NaN;NaN;NaN;NaN;NaN;21,4;22,3;22,2;23;NaN;NaN
-Dolya kompanii, osushchestvlyavshikh innovatsionnuyu deyatelnost;NaN;NaN;NaN;9,6;8,3;15,9;15,9;10,1;10,8;NaN;NaN
-Kolichestvo nauchno-tekhnicheskikh organizatsii;NaN;NaN;NaN;NaN;NaN;476;483;521;514;NaN;NaN
-Koeffitsient izobretatelskoi aktivnosti (chislo patentnykh zayavok na izobreteniya,  podannykh v RF;NaN;NaN;NaN;1,63;1,79;1,55;1,58;2,64;NaN;NaN;NaN
-Chislennost issledovatelei,  imeyushchikh uchenuyu stepen kandidata ili doktora nauk ;NaN;NaN;NaN;13769;12784;12156;11508;11901;11837;NaN;NaN
-Svoevremennost vypolneniya finansovykh obyazatelstv zakazchikom;14 992 420,59;14 187 481,15;12 537 644,95;9 649 816,10;8 953 647,25;5 929 941,54;4 239 583,98;3 311 660,91;3 262 848,49;3 160 423,41;3 179 832,52
-Razmer byudzheta regiona;951,8;1015,6;1111,7;1174,2;1273,08;1373,8;1605,03;1768,9;1894,2;1866,6;2374,7
-Deklaratsiya razvitiya Industrii 4.0 v regione;NaN;NaN;NaN;86,5;55,2;89;70,1;88,8;75,9;NaN;NaN
-Dolya proizvodstva priborov regionom v obshchem kolichestve proizvodstva v RF;NaN;NaN;NaN;NaN;NaN;9,87;7,26;NaN;7,87;7,97;9,82
-Kolichestvo organizatsii,  vypolnyayushchikh nauchnye issledovaniya i razrabotki (edinits);NaN;NaN;NaN;493;494;476;483;521;514;NaN;NaN
-Ustoichivost ekonomicheskoi sistemy regiona;103,8;100,3;100,9;101,5;101,7;100,5;102,1;101,6;98,1;NaN;NaN
-Inflyatsiya v regione;105,32;105,37;108,14;117,82;107,41;103,06;104,13;102,95;104,84;108,53;111,90
-Dolya importa na regionalnom rynke priborov;NaN;NaN;NaN;NaN;NaN;NaN;85;85;85;85;85
-Dinamika promyshlennogo proizvodstva;NaN;NaN;NaN;NaN;103,3;103;102,9;103,4;97,4;104,6;99,7
-Dolya VVP regiona v stranovom pokazatele;NaN;NaN;9,57;9,77;9,64;9,21;9,50;9,65;9,89;NaN;NaN
-Rentabelnost aktivov predpriyatii priborostroeniya regiona;NaN;NaN;NaN;NaN;NaN;11,33;10,91;7,52;9,77;8,74;8,15
-Rentabelnost sobstvennogo kapitala predpriyatii otrasli;22,3;27,3;22,4;25,9;23,9;26,1;24,1;22,2;19,5;19,6;19,6
-Dinamika eksporta regiona;52071;47945;52740;39697;31813;41249;50868;50763;42242;61035;NaN
-Dinamika importa regiona;57033;55582;52784;34008;32143;35946;37573;27936;34528;42851;NaN
-Indeks predprinimatelskoi uverennosti;19,3;0,25;-0,5;-7;-8,3;-12,75;-11,75;-14,25;-22,5;-20,25;-24,25
-Uroven ispolzovaniya proizvodstvennykh moshchnostei;61,25;57,55;57,73;56,39;55,99;52,29;53,29;53,87;51,78;55,1;51,36
-Kompetentnost i opyt menedzhmenta postavok ;3;3;3;5;5;3;3;5;3;3;3
-Podderzhka federalnogo tsentra ;3;3;3;3;3;3;3;3;3;3;3
-Obem trebuemykh cheloveko-chasov ;3;5;5;5;5;3;3;5;5;5;3
-Stabilnost struktury komissii ;3;3;3;3;5;5;5;3;3;5;3
-Innovatsionnaya aktivnost ;3;3;1;1;3;1;1;1;1;3;1
-Sposobnost samostoyatelnogo vypolneniya zadach ;5;5;1;5;5;1;5;1;5;5;5
-Opyt raboty rukovoditelya v sfere gosudarstvennogo upravleniya ;4;4;4;4;4;4;4;4;4;4;4
-Kolichestvo sozdavaemykh predpriyatii ;3;3;5;3;3;3;5;3;3;3;3
-Kommunikatsionnaya effektivnost uchastnikov ;1;3;1;3;1;1;1;1;1;1;3
-Imidzh zaemshchika i pokupatelya ;3;3;3;3;3;1;3;5;3;3;5
-Zafiksirovana uspeshnaya istoriya realizatsii proektov v sfere priborostroeniya;1;1;5;5;1;5;5;5;5;5;5
-Shirota prav i vozmozhnostei ;1;3;1;1;1;1;1;3;3;1;3
-Rabota s reklamatsiyami;4;4;5;5;4;5;4;4;4;4;5
-Kompetentnost personala;4;5;5;5;3;4;4;5;4;4;4
-Zavisimost ot zarubezhnykh postavok;5;5;5;1;1;5;1;5;1;1;5
-Zavisimost ot importa iz drugikh stran;4;3;4;2;3;3;4;3;2;3;3
-Svoevremennost vypolneniya obyazatelstv ranee;5;5;5;4;4;5;4;5;4;5;5
-Proverka kachestva produktsii;5;5;5;5;5;5;5;5;1;1;5
-Innovatsionnaya aktivnost postavshchikov;3;5;3;3;3;3;5;5;3;5;3
-Opyt postavok predpriyatiyam sfery priborostroeniya;3;3;3;4;3;3;4;3;3;3;4
-Svoevremennost postavok;3;4;4;4;5;4;4;4;5;5;4
-Neobkhodimaya tekhnicheskaya baza;5;5;5;5;5;5;5;5;5;5;5
-Imidzh na rynke;3;3;4;5;5;4;4;5;3;5;5
-Est sobstvennye innovatsii i narabotki;2;3;3;2;3;3;3;3;2;2;3
-Vozmozhnost narashchivaniya postavok;5;1;5;5;1;5;5;5;5;1;5
-Tekhnicheskaya nezavisimost postavshchikov;5;1;5;1;1;5;1;5;1;1;5
-Sebestoimost produktsii;3;3;3;1;3;1;3;3;1;3;3
-Kachestvo komplektuyushchikh;4;3;4;3;5;3;3;4;3;4;4
-Vozmozhnost izmeneniya logistiki;5;5;5;5;5;5;1;5;5;5;5
-Dlitelnost funktsionirovaniya;5;5;5;5;3;3;5;3;5;5;3
-Avtonomiya;4;5;3;4;4;4;4;5;5;5;3
-Ustoichivost proizvodstvennogo protsessa;4;4;4;4;5;5;5;4;4;4;4
-Imidzh na rynke;3;3;3;3;4;4;4;3;3;5;4
-Nalichie moshchnykh brendov v assortimentnom portfele;1;1;1;1;1;1;1;1;1;5;5
-Investitsionnaya aktivnost v techenie poslednikh let;6;6;6;7;6;7;6;5;6;6;5
-Effektivnost i ratsionalnost tekushchikh biznes-modelei;4;4;4;3;4;4;3;5;5;4;4
-Ustoichivost sbyta priborov predpriyatiyami;7;7;5;7;8;8;5;6;7;7;7
-Ukomplektovannost kompetentnym personalom;7;7;7;6;6;8;8;8;5;5;6
-Opyt raboty s gosudarstvennym finansirovaniem;1;1;1;3;1;1;5;3;3;1;1
-Dostatochnoe kolichestvo alternativ deistviya v zavisimosti ot situatsii v otrasli  ;4;4;3;5;3;4;4;4;4;5;5
-Kachestvo tekhnologii planirovaniya,  prognozirovaniya i proektirovaniya  ;3;3;3;3;4;3;3;4;4;3;3
-Ispolzovanie innovatsii v protsesse  ;3;3;2;2;3;2;4;3;2;3;2
-Dolya neopredelennosti  ;1;1;1;2;2;1;2;2;1;1;2
-Napravlennost interesov uchastnikov  ;3;3;3;3;3;4;3;4;3;3;3
-Dostup k nauchnoi srede (teoretiki) ;5;4;5;5;5;5;4;4;5;4;5
-Dostup k ekspertnoi srede (praktiki) ;4;4;5;3;3;4;5;3;4;3;3
-Intensivnost podderzhki dotatsiyami ;3;2;2;3;3;2;2;3;3;4;2
-Izmenchivost vneshnei sredy ;3;1;1;1;3;1;1;1;1;3;1
-Nalichie instrumentov dlya resheniya problem v razlichnykh sferakh ;5;4;4;5;4;4;3;3;4;4;3
-Dostatochnye analiticheskie moshchnosti dlya raznostoronnei otsenki problem i ugroz v moment ikh vyyavleniya ;5;5;4;4;3;5;4;4;5;3;4
-Kachestvennaya formalizatsiya problem ;4;4;4;5;4;4;5;4;5;4;4
-Nalichie vozmozhnosti zaranee vyyavlyat nadvigayushchiesya problemy i ugrozy ;3;2;3;3;3;3;2;2;3;3;4
-Problemy s finansirovaniem ;3;3;3;3;3;3;4;3;2;3;3
-Sreda vozniknoveniya shokov v ramkakh otrasli priborostroeniya ;1;5;5;5;1;1;1;1;1;1;5
-Uroven upravlentsev ;3;3;3;4;3;3;4;3;3;3;4
-Potentsialnaya skorost reagirovaniya na voznikayushchie problemy ;4;4;3;3;4;4;3;4;3;3;3
-Nizkaya volatilnost vyruchki predpriyatii priborostroeniya ;4;4;3;4;4;5;5;5;5;4;5
-Nizkaya volatilnost pribylnosti predpriyatii priborostroeniya ;5;5;5;4;4;3;4;4;5;4;5
-Rasshirenie khozyaistvennogo potentsiala predpriyatii sfery priborostroeniya ;3;4;4;3;4;4;4;4;4;3;3
-Perspektiva dostizheniya tselei ;1;5;3;3;3;5;1;1;5;3;3
-Rasshirenie finansovogo potentsiala predpriyatii sfery priborostroeniya;4;4;4;5;5;5;4;5;5;5;5
-Nakhozhdenie novykh nish i rezervov usileniya ;3;4;3;2;5;3;3;3;4;3;3
-Nalazhivanie novykh svyazei s drugimi regionami i stranami ;3;4;3;3;3;4;4;3;3;3;4
+Характеристика заказчика;ВРП на душу населения, тыс.руб. на чел.;Спрос на продукцию сферы приборостроения, млн руб;Объем производства предприятий отрасли приборостроения;Инвестиции в основной капитал на душу населения, тыс.руб. на чел.;Ежегодный прирост населения, чел;Доля предприятий с высокотехнологическим производством;Доля компаний, осуществлявших инновационную деятельность,%;Количество научно-технических организаций, ед;Коэффициент изобретательской активности (число патентных заявок на изобретения, поданных в РФ на 10 тыс. населения;Численность исследователей, имеющих ученую степень кандидата или доктора наук ;Своевременность выполнения финансовых обязательств заказчиком;Размер бюджета региона, млрд руб.;Декларация развития Индустрии 4.0 в регионе,%;Доля производства приборов регионом в общем количестве производства в РФ, %;Количество организаций, выполняющих научные исследования и разработки (единиц), ед;Устойчивость экономической системы региона;Инфляция в регионе, %;Доля импорта на региональном рынке приборов, %;Динамика промышленного производства, %;Доля ВВП региона в страновом показателе, %;Рентабельность активов предприятий приборостроения региона, %;Рентабельность собственного капитала предприятий отрасли,%;Динамика экспорта региона, млн долл. США;Динамика импорта региона, млн долл США;Индекс предпринимательской уверенности;Уровень использования производственных мощностей;Компетентность и опыт менеджмента поставок ();Поддержка федерального центра ();Объем требуемых человеко-часов ();Стабильность структуры комиссии ();Инновационная активность ();Способность самостоятельного выполнения задач ();Опыт работы руководителя в сфере государственного управления ();Количество создаваемых предприятий ();Коммуникационная эффективность участников ();Имидж заемщика и покупателя ();Зафиксирована успешная история реализации проектов в сфере приборостроения ();Широта прав и возможностей ();Работа с рекламациями;Компетентность персонала;Зависимость от зарубежных поставок;Зависимость от импорта из других стран;Своевременность выполнения обязательств ранее;Проверка качества продукции;Инновационная активность поставщиков;Опыт поставок предприятиям сферы приборостроения;Своевременность поставок;Необходимая техническая база;Имидж на рынке;Есть собственные инновации и наработки;Возможность наращивания поставок;Техническая независимость поставщиков;Себестоимость продукции;Качество комплектующих;Возможность изменения логистики;Длительность функционирования;Автономия;Устойчивость производственного процесса;Имидж на рынке;Наличие мощных брендов в ассортиментном портфеле;Инвестиционная активность в течение последних лет;Эффективность и рациональность текущих бизнес-моделей;Устойчивость сбыта приборов предприятиями;Укомплектованность компетентным персоналом;Опыт работы с государственным финансированием;Достаточное количество альтернатив действия в зависимости от ситуации в отрасли  ;Качество технологии планирования, прогнозирования и проектирования  ;Использование инноваций в процессе  ;Доля неопределенности  ;Направленность интересов участников  ;Доступ к научной среде (теоретики) ;Доступ к экспертной среде (практики) ;Интенсивность поддержки дотациями ;Изменчивость внешней среды ;Наличие инструментов для решения проблем в различных сферах ;Достаточные аналитические мощности для разносторонней оценки проблем и угроз в момент их выявления ;Качественная формализация проблем ;Наличие возможности заранее выявлять надвигающиеся проблемы и угрозы ;Проблемы с финансированием ;Среда возникновения шоков в рамках отрасли приборостроения ;Уровень управленцев ;Потенциальная скорость реагирования на возникающие проблемы ;Низкая волатильность выручки предприятий приборостроения ;Низкая волатильность прибыльности предприятий приборостроения ;Расширение хозяйственного потенциала предприятий сферы приборостроения ;Перспектива достижения целей ;Расширение финансового потенциала предприятий сферы приборостроения;Нахождение новых ниш и резервов усиления ;Налаживание новых связей с другими регионами и странами 2012;383,33;NaN;NaN;108512;-21387;NaN;NaN;NaN;NaN;NaN; 14 992 420,59 ;951,8;NaN;NaN;NaN;103,8;105,32;NaN;NaN;NaN;NaN;22,3;52071;57033;19,3;61,25;3;3;3;3;3;5;4;3;1;3;1;1;4;4;5;4;5;5;3;3;3;5;3;2;5;5;3;4;5;5;4;4;3;1;6;4;7;7;1;4;3;3;1;3;5;4;3;3;5;5;4;3;3;1;3;4;4;5;3;1;4;3;32013;403,61;NaN;NaN;102922;-16534;NaN;NaN;NaN;NaN;NaN; 14 187 481,15 ;1015,6;NaN;NaN;NaN;100,3;105,37;NaN;NaN;NaN;NaN;27,3;47945;55582;0,25;57,55;3;3;5;3;3;5;4;3;3;3;1;3;4;5;5;3;5;5;5;3;4;5;3;3;1;1;3;3;5;5;5;4;3;1;6;4;7;7;1;4;3;3;1;3;4;4;2;1;4;5;4;2;3;5;3;4;4;5;4;5;4;4;42014;430,13;NaN;NaN;101754;-13396;NaN;NaN;NaN;NaN;NaN; 12 537 644,95 ;1111,7;NaN;NaN;NaN;100,9;108,14;NaN;NaN;9,57;NaN;22,4;52740;52784;-0,5;57,73;3;3;5;3;1;1;4;5;1;3;5;1;5;5;5;4;5;5;3;3;4;5;4;3;5;5;3;4;5;5;3;4;3;1;6;4;5;7;1;3;3;2;1;3;5;5;2;1;4;4;4;3;3;5;3;3;3;5;4;3;4;3;32015;520,25;NaN;NaN;103799;-11634;NaN;9,6;NaN;1,63;13769; 9 649 816,10 ;1174,2;86,5;NaN;493;101,5;117,82;NaN;NaN;9,77;NaN;25,9;39697;34008;-7;56,39;5;3;5;3;1;5;4;3;3;3;5;1;5;5;1;2;4;5;3;4;4;5;5;2;5;1;1;3;5;5;4;4;3;1;7;3;7;6;3;5;3;2;2;3;5;3;3;1;5;4;5;3;3;5;4;3;4;4;3;3;5;2;32016;605,32;NaN;NaN;125563;-10606;NaN;8,3;NaN;1,79;12784; 8 953 647,25 ;1273,08;55,2;NaN;494;101,7;107,41;NaN;103,3;9,64;NaN;23,9;31813;32143;-8,3;55,99;5;3;5;5;3;5;4;3;1;3;1;1;4;3;1;3;4;5;3;3;5;5;5;3;1;1;3;5;5;3;4;5;4;1;6;4;8;6;1;3;4;3;2;3;5;3;3;3;4;3;4;3;3;1;3;4;4;4;4;3;5;5;32017;632,99;NaN;1485,755;135240;-23538;21,4;15,9;476;1,55;12156; 5 929 941,54 ;1373,8;89;9,87;476;100,5;103,06;NaN;103;9,21;11,33;26,1;41249;35946;-12,75;52,29;3;3;3;5;1;1;4;3;1;1;5;1;5;4;5;3;5;5;3;3;4;5;4;3;5;5;1;3;5;3;4;5;4;1;7;4;8;8;1;4;3;2;1;4;5;4;2;1;4;5;4;3;3;1;3;4;5;3;4;5;5;3;42018;706,61;NaN;2823,838;165371;-30590;22,3;15,9;483;1,58;11508; 4 239 583,98 ;1605,03;70,1;7,26;483;102,1;104,13;85;102,9;9,50;10,91;24,1;50868;37573;-11,75;53,29;3;3;3;5;1;5;4;5;1;3;5;1;4;4;1;4;4;5;5;4;4;5;4;3;5;1;3;3;1;5;4;5;4;1;6;3;5;8;5;4;3;4;2;3;4;5;2;1;3;4;5;2;4;1;4;3;5;4;4;1;4;3;42019;756,78;78180,9;NaN;149028;-39543;22,2;10,1;521;2,64;11901; 3 311 660,91 ;1768,9;88,8;NaN;521;101,6;102,95;85;103,4;9,65;7,52;22,2;50763;27936;-14,25;53,87;5;3;5;3;1;1;4;3;1;5;5;3;4;5;5;3;5;5;5;3;4;5;5;3;5;5;3;4;5;3;5;4;3;1;5;5;6;8;3;4;4;3;2;4;4;3;3;1;3;4;4;2;3;1;3;4;5;4;4;1;5;3;32020;762,35;112481,2;2767,697;155834;-76175;23;10,8;514;NaN;11837; 3 262 848,49 ;1894,2;75,9;7,87;514;98,1;104,84;85;97,4;9,89;9,77;19,5;42242;34528;-22,5;51,78;3;3;5;3;1;5;4;3;1;3;5;3;4;4;1;2;4;1;3;3;5;5;3;2;5;1;1;3;5;5;5;4;3;1;6;5;7;5;3;4;4;2;1;3;5;4;3;1;4;5;5;3;2;1;3;3;5;5;4;5;5;4;32021;NaN;126483,4;3724,602;171034;-113923;NaN;NaN;NaN;NaN;NaN; 3 160 423,41 ;1866,6;NaN;7,97;NaN;NaN;108,53;85;104,6;NaN;8,74;19,6;61035;42851;-20,25;55,1;3;3;5;5;3;5;4;3;1;3;5;1;4;4;1;3;5;1;5;3;5;5;5;2;1;1;3;4;5;5;5;4;5;5;6;4;7;5;1;5;3;3;1;3;4;3;4;3;4;3;4;3;3;1;3;3;4;4;3;3;5;3;32022;NaN;126461,9;4361,932;187726;-72474;NaN;NaN;NaN;NaN;NaN; 3 179 832,52 ;2374,7;NaN;9,82;NaN;NaN;111,90;85;99,7;NaN;8,15;19,6;NaN;NaN;-24,25;51,36;3;3;3;3;1;5;4;3;3;5;5;3;5;4;5;3;5;5;3;4;4;5;5;3;5;5;3;4;5;3;3;4;4;5;5;4;7;6;1;5;3;2;2;3;5;3;2;1;3;4;4;4;3;5;4;3;5;5;3;3;5;3;4
